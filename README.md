@@ -4,7 +4,7 @@ A script that executes a request to an external service which updates a Google S
 
 ## ℹ️ Background
 
-I wanted to create a service for my business that sends alerts to a dedicated Slack channel of card transactions over R1 000 for a member of the admin team to be able to monitor expenses.
+I wanted to create a service that sends card transactions after they have been approved to a sheet for accounting purposes.
 
 ![Example](/docs/snippet.png)
 
